@@ -12,7 +12,7 @@ const Home = () => {
   // const PRIVATE_KEY = process.env.REACT_APP_PRIVATE_KEY
   // const provider_Metamask = new ethers.providers.Web3Provider(window.ethereum)
   // const infuraProvider = new ethers.providers.InfuraProvider('goerli', API_KEY)
-  return <React.Fragment>hello</React.Fragment>
+  return <React.Fragment>Mấy thằng ngu mò ra rồi à</React.Fragment>
 }
 
 export default Home
